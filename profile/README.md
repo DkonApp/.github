@@ -4,4 +4,4 @@ Dalam Kontakt is a social network that adheres to freedom of speech and non-adve
 We appreciate any opinion, even if we disagree with it!
 We have provided the source code for iOS and Android, with which you can build your application!
 
-<img src="https://filecloud-20-ars-cont-st.dkon.app/public/wp-cont/cloud20/dkon.app_f344515fdbde4ca3_DKon.app_g284g8b82e.png" />
+<img src="https://filecloud-13-ars-cont-st.dkon.app/wp-cont/cloud13/dkon.app_1c54ac3452941975_DKon.app_2e5a6c4b97.jpg" />
